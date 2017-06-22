@@ -10,8 +10,8 @@
     "type": "",
     "url": ""
   },
-  "engines" : {
-    "node" : "8.1.0"
+  "engines": {
+    "node": "8.1.0"
   },
   "keywords": [],
   "author": "",
@@ -21,7 +21,8 @@
   },
   "homepage": "",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
   },
   "devDependencies": {}
 }
