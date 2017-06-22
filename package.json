@@ -1,0 +1,27 @@
+{
+  "name": "node-chat-app",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "engines" : {
+    "node" : "8.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {}
+}
